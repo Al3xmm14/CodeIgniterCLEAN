@@ -236,6 +236,17 @@
 <!-- CONTENT -->
 
 <section>
+<video width="320" height="240" controls>
+    <source src="https://wolf-asset-test.s3.us-west-2.amazonaws.com/Grabaci%C3%B3n+de+pantalla+desde+23-07-24+17%3A09%3A13.webm" type="video/webm">
+    Tu navegador no soporta la etiqueta de video.
+  </video>
+  <video width="320" height="240" controls>
+    <source src="https://wolf-asset-test.s3.us-west-2.amazonaws.com/WhatsApp+Video+2024-07-23+at+17.04.55.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+  </video>
+</section>
+
+<section>
 
     <h1>About this page</h1>
 
